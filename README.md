@@ -1,6 +1,4 @@
-I ATTACHED PREVIOUS COMMENTS AND I RESOLVED MY TASK AS PER DESCRIPTION. 
+restcountries
 
-day 17:restcountries
-
-
+DeployLink:
 https://extraordinary-blancmange-22dc51.netlify.app/
